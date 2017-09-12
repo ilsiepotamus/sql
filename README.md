@@ -1,0 +1,2 @@
+# sql
+random sql scripts
