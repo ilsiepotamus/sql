@@ -1,2 +1,0 @@
-# sql
-random sql scripts
